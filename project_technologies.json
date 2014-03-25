@@ -8,6 +8,9 @@
         ],
         "toolkits": [
             "insert toolkits"
+        ],
+        "language": [
+            "javascript"
         ]
     },
     "themes": [

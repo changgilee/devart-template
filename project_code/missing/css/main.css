@@ -1,0 +1,10 @@
+body {
+	background-color:black;
+	font-family: 'Tangerine', serif;
+    font-size: 48px;
+    color : white;
+}
+
+.drawLayer {
+	position:absolute;
+}

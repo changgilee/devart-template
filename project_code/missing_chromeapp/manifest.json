@@ -1,0 +1,21 @@
+{
+  "name": "missing",
+  "description": "missing from earth",
+  "version": "1.0",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "*://real9.cafe24.com/missing/index.html"
+    ],
+    "launch": {
+      "web_url": "http://real9.cafe24.com/missing/index.html"
+    }
+  },
+  "icons": {
+    "128": "missing.png"
+  },
+  "permissions": [
+    "unlimitedStorage",
+    "notifications"
+  ]
+}

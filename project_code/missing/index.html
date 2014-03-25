@@ -1,0 +1,52 @@
+<html>
+	<head>
+		<title>missing</title>
+		<link rel="stylesheet" type="text/css" href="css/main.css">
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+		<script type="text/javascript" src="js/MColor.js"></script>
+		<script type="text/javascript" src="js/MDraw.js"></script>
+		<script type="text/javascript" src="js/MManager.js"></script>
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.onload = function(){
+				var imageFileArray = [
+					"image/american-burying-beattle.png",
+					"image/emperor-penguin.png",
+					"image/flat-tail-sea-snake.png",
+					"image/hooded-vulture.png",
+					"image/luristan-newt.png",
+					"image/polynesian-ground-dove.png",
+					"image/sonaghen.png",
+					"image/spiny-giant-frog.png",
+					"image/stitchbird.png",
+					"image/white-headed-steamerduck.png"
+				];
+				var imageCanvas = document.getElementById("imageCanvas");
+				var drawCanvas = document.getElementById("drawCanvas");
+				var drawLayer = document.getElementById("drawLayer");
+
+				var tManager = new MManager({
+					imageFileArray : imageFileArray,
+					imageCanvas : imageCanvas,
+					imageWidth : 50,
+					imageHeight : 50,
+					drawCanvas : drawCanvas,
+					drawWidth : 500,
+					drawHeight : 500,
+					drawLayer : drawLayer
+				});
+			}
+		</script>
+		<div id="mainLayer">
+			<div id="drawLayer" class="drawLayer">
+				<canvas id="drawCanvas" width="500" height="500" style="border:1px solid #000000;">
+				</canvas>
+			</div>
+			<div id="imageLayer" style="visibility:hidden;">
+				<canvas id="imageCanvas" width="100" height="100" style="border:1px solid #FFFFFF;">
+				</canvas>
+			</div>
+		</div>
+	</body>
+</html>
