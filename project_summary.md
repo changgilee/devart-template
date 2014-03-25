@@ -1,17 +1,14 @@
 # Project Title
-Insert the name of your project
+missing
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- changgi, lee, changgilee
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+[missing] is the artwork about endangered animal on the planet. At this moment, Number of animals are vanished. The colors are extracted from these animals, and drawing by programming. The colors are disappeared continuously and only black is remained. Also, the work is projectioned to audience, so he can see the artwork by himself through the mirror. This means that animals and human are not different from each other.
 
 ## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
-
-[Example Link](http://www.google.com "Example Link")
+[Example Link](http://real9.cafe24.com/missing/index.html "artwork Link")
 
 ## Example Code
 NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
