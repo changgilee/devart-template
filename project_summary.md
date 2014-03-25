@@ -2,13 +2,13 @@
 missing
 
 ## Authors
-- changgi, lee, changgilee
+- changgi lee
 
 ## Description
 [missing] is the artwork about endangered animal on the planet. At this moment, Number of animals are vanished. The colors are extracted from these animals, and drawing by programming. The colors are disappeared continuously and only black is remained. Also, the work is projectioned to audience, so he can see the artwork by himself through the mirror.
 
 ## Link to Prototype
-[artwork link](http://real9.cafe24.com/missing/index.html)
+[project link](http://real.cafe24.com/missing/index.html)
 
 ## Example Code
 NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
@@ -17,6 +17,7 @@ function test() {
   console.log("Printing a test");
 }
 ```
+
 ## Links to External Libraries
  NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
 
