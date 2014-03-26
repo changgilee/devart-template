@@ -10,3 +10,5 @@ missing
 ## Link to Prototype
 [missing](http://real9.cafe24.com/missing/index.html)
 
+## Video
+https://www.youtube.com/watch?v=30yGOxJJ2PQ
